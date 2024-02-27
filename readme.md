@@ -1,2 +1,2 @@
 Olá esse projeto ensina você a usar o GIT
-Está é a segunva versao do projeto - uma alteracao
+Está é a segunda versao do projeto -praticando mudanças no commit
